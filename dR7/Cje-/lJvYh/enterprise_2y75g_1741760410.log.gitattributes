@@ -7,7 +7,6 @@
 *.md text eol=lf
 *.proto text eol=lf
 *.png binary
-*.pptx binary
 *.py text eol=lf
 *.rst text eol=lf
 *.sh text eol=lf
