@@ -6,7 +6,6 @@ exclude_paths:
   - packaging/makeself/**
   - tests/**
   - aclk/tests/**
-  - src/libnetdata/libjudy/**
   - src/database/sqlite/sqlite3.c
   - src/ml/dlib/**
   - src/web/server/h2o/libh2o/**
