@@ -22,7 +22,6 @@ If you have not yet configured the [OAuth consent screen](https://console.cloud.
 4. Click 'SAVE AND CONTINUE' on the 'Optional info' page.
 5. Click 'BACK TO DASHBOARD'.
 
-# Setting up OAuth credential
 1. Go to https://console.cloud.google.com/apis/credentials.
 2. Click 'Create Credentials'.
 
